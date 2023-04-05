@@ -93,7 +93,9 @@ const Nav = () => {
               xl="4"
               className="d-flex justify-content-center align-items-center"
             >
+              <a href="/" className="text-decoration-none">
               <h3>Social app</h3>
+              </a>
             </Col>
             <Col
               xl="4"
